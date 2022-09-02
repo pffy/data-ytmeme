@@ -1,2 +1,0 @@
-# data-ytmeme
-youtube memes
